@@ -2,7 +2,7 @@
 
 start="package main
 
-import lib \"github.com/thebenkogan/Advent-Of-Code-2015\"
+import lib \"github.com/thebenkogan/CodingQuest-2022\"
 
 func main() {
 	input := lib.GetInput()

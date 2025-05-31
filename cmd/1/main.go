@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/samber/lo"
-	lib "github.com/thebenkogan/Advent-Of-Code-2015"
+	lib "github.com/thebenkogan/CodingQuest-2022"
 )
 
 const (
